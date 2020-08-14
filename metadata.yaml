@@ -1,5 +1,8 @@
 _repo: A-Treatise-of-Human-Nature-Being-an-Attempt-to-Introduce-the-Experimental-Method-Into-Moral-S__62856
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hume, David
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '52161'
     url: http://www.gutenberg.org/2009/agents/52161
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62856#A-Treatise-of-Human-Nature-Being-an-Attempt-to-Introduce-the-Experimental-Method-Into-Moral-S_
 gutenberg_issued: '2020-08-05'
 gutenberg_type: Text
 identifiers:
