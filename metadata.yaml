@@ -1,0 +1,42 @@
+_repo: A-Treatise-of-Human-Nature-Being-an-Attempt-to-Introduce-the-Experimental-Method-Into-Moral-S__62856
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hume, David
+    birthdate: 1711
+    deathdate: 1776
+    gutenberg_agent_id: '1440'
+    url: http://www.gutenberg.org/2009/agents/1440
+    wikipedia: https://en.wikipedia.org/wiki/David_Hume
+  editors:
+  - agent_name: Green, Thomas Hill
+    alias: Green, T. H. (Thomas Hill)
+    birthdate: 1836
+    deathdate: 1882
+    gutenberg_agent_id: '9557'
+    url: http://www.gutenberg.org/2009/agents/9557
+    wikipedia: https://en.wikipedia.org/wiki/T._H._Green
+  - agent_name: Grose, Thomas Hodge
+    birthdate: 1845
+    deathdate: 1906
+    gutenberg_agent_id: '52161'
+    url: http://www.gutenberg.org/2009/agents/52161
+description: ''
+gutenberg_issued: '2020-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62856'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethics'
+- !lcc 'B'
+- !lcsh 'Knowledge, Theory of'
+- !lcsh 'Philosophy, English'
+- !lcsh 'Emotions'
+- GITenberg
+title: "A Treatise of Human Nature\r\nBeing an Attempt to Introduce the Experimental\
+  \ Method Into Moral Subjects; and Dialogues Concerning Natural Religion"
+url: http://www.gutenberg.org/ebooks/62856
